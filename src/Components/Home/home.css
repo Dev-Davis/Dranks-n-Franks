@@ -1,0 +1,25 @@
+.home-board {
+  background-color: rgb(124, 124, 124);
+}
+
+hr {
+  color: red;
+}
+
+.title-greeting {
+  background-color: rgb(196, 97, 97);
+  border: 2px solid black;
+  padding: 1rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.hours-panel {
+  padding-top: 0.8em;
+  font-weight: bold;
+}
+
+h2,
+h5 {
+  font-weight: bold;
+}
