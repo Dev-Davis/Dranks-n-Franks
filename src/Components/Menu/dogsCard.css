@@ -1,0 +1,41 @@
+.dog-card, .sides-card {
+  border: 3px solid black;
+  padding: 2rem;
+  margin: 1rem;border-radius: 1rem;
+  box-shadow: 0.2rem 0.2rem 0.6rem rgb(255, 0, 0); 
+  background-color: rgb(196, 97, 97);
+}
+
+.dog-name {
+  color: rgb(37, 0, 0);
+  font-weight: bold;
+}
+
+.button-text {
+  font-size: 1rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+  margin: 5px 0;
+}
+
+.dawg-avi, .side-avi {
+  height: 11em;
+  width: 11em;
+  margin-bottom: 1em; 
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.details-box {
+  border: 1px solid black;
+  border-radius: 1em;
+  padding-top: 1em;
+  margin-bottom: 0.9em;
+  background: white;
+  box-shadow: 0.5em 0.5em 1em black;
+  font-weight: bolder;
+}
+
+.add-btn-section {
+  padding-bottom: 1em;
+}
